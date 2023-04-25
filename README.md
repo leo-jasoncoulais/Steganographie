@@ -13,4 +13,4 @@
  > Pour Linux:
  `python3 -m pip install Pillow`
 
-### Informations complémentaires: ce projet est un travail d'école, sa réutilisation et sa modification, ainsi que n'importe quelles améliorations sont les bienvenues
+Informations complémentaires: ce projet est un travail d'école, sa réutilisation et sa modification, ainsi que n'importe quelles améliorations sont les bienvenues
